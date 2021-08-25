@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>What is Double-entry Bookkeeping</title>
+      <link href="/2021/08/22/what-is-double-entry-bookkeeping/"/>
+      <url>/2021/08/22/what-is-double-entry-bookkeeping/</url>
+      
+        <content type="html"><![CDATA[<h1 id="What-is-Double-entry-Bookkeeping"><a href="#What-is-Double-entry-Bookkeeping" class="headerlink" title="What is Double-entry Bookkeeping?"></a>What is Double-entry Bookkeeping?</h1><p>When I checked my bills weeks ago, I found I spent so much money last month that I would not afford to pay the fourth quarter rent. <span class="github-emoji"><span>😢</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f622.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span> I have to do something to control my expenses this month or I’ll have to sleep on the street in two month. <span class="github-emoji"><span>😂</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f602.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span></p><p>What I need to do is accounting. It sounds easy but hard to persist. I have tried to accounting many times, and as you can see, I’m still struggling with my bill now. After these failures, I’ve summed up a few tips:</p><ul><li><strong>Be lazy</strong>: DO NOT take notes of expenses every day manually, use program to import automatically</li><li><strong>Review regularly</strong>: a bookkeeping without reviews is NOTHING, try to review every month</li><li><strong>Classify well</strong>: try to use MECE principle (I watched <a href="https://www.bilibili.com/video/av79848477?from=search&amp;seid=18250447769563975575">a video</a> about classification is good and I will write a post about it next time.)</li></ul><h2 id="From-single-entry-to-double-entry"><a href="#From-single-entry-to-double-entry" class="headerlink" title="From single-entry to double-entry"></a>From single-entry to double-entry</h2><p>Let’s go back to our topic: bookkeeping. </p><h3 id="History-of-bookkeeping"><a href="#History-of-bookkeeping" class="headerlink" title="History of bookkeeping"></a>History of bookkeeping</h3><p>In late 13th century, nautical trade was well developed in Europe and the single-entry cannot suit the gradually complicated trade with many rounds of transaction and risk of bad weather. [^1] The modern double-entry system in Europe come form Amatino Manucci, a Florentine merchant at that time. In 1494, Luca Pacioli, a Franciscan friar, first codified the system in his mathematics textbook <em>Summa de arithmetica, geometria, proportioni et proportionalità</em>. After that, the double-entry bookkeeping system was accepted widely in Europe and influenced the development of capitalism. [^2]</p><h3 id="Limitation-of-single-entry-bookkeeping"><a href="#Limitation-of-single-entry-bookkeeping" class="headerlink" title="Limitation of single-entry bookkeeping"></a>Limitation of single-entry bookkeeping</h3><p>The word “Double-entry” sounds abstract. Now let’s take an example of bookkeeping. And we will fine the benefit of the double-entry and the limitation of single-entry bookkeeping.</p><p><strong>(TO BE CONTINUE)</strong></p><h2 id="Accounting-equation"><a href="#Accounting-equation" class="headerlink" title="Accounting equation"></a>Accounting equation</h2><h2 id="How-to-use"><a href="#How-to-use" class="headerlink" title="How to use?"></a>How to use?</h2><h2 id="A-software-of-double-entry-Bookkeeping-Beancount"><a href="#A-software-of-double-entry-Bookkeeping-Beancount" class="headerlink" title="A software of double-entry Bookkeeping: Beancount"></a>A software of double-entry Bookkeeping: Beancount</h2><h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><p>[^1]: <a href="https://www.madewill.com/thinking-model/debit-and-credit-bookkeeping.html">复式簿记思维——人类智慧的绝妙创造 | 芒格学院 (madewill.com)</a><br>[^2]: <a href="https://en.wikipedia.org/wiki/Double-entry_bookkeeping#History">Double-entry bookkeeping - Wikipedia</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Financing </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Double-entry Bookkeeping </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>How to Pick a graduate Advisor</title>
+      <link href="/2021/08/07/how-to-pick-a-graduate-advisor/"/>
+      <url>/2021/08/07/how-to-pick-a-graduate-advisor/</url>
+      
+        <content type="html"><![CDATA[<h1 id="如何挑选一个研究生导师"><a href="#如何挑选一个研究生导师" class="headerlink" title="如何挑选一个研究生导师"></a>如何挑选一个研究生导师</h1><blockquote><p>最近在复习雅思考试和做实验的同时（其实主要精力还是放在雅思上面了……谢罪），还在忙着挑选导师的事情。然后在网上冲浪的时候就搜寻了一些有关挑选导师的“道”与“术”方面的问题，也看到了一些不错的文章。正好还有Beeminder在push我赶紧更新博客，不然扣你钱。所以我就更新了这篇文章，也算是做了一个笔记。</p><p>本文的内容不是我原创，算是一篇笔记吧。如果有引用不规范的地方，请联系我，我会改正，谢谢！<span class="github-emoji"><span>🙏</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f64f.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span></p></blockquote><h2 id="什么样的人该读博"><a href="#什么样的人该读博" class="headerlink" title="什么样的人该读博"></a>什么样的人该读博</h2><ul><li><p>科研上瘾</p></li><li><p><del>明确当大学老师</del></p><blockquote><p>我个人对当大学老师的想法不是很强烈，所以在这里面就划去了</p></blockquote></li><li><p>技术型博士：在平时工作中发现课题，利用读博的机会去解决</p></li></ul><h2 id="该选什么样的学校"><a href="#该选什么样的学校" class="headerlink" title="该选什么样的学校"></a>该选什么样的学校</h2><ul><li>好的导师所在的学校（导师比学校重要）<ul><li>ARWU排名</li><li>QS排名（Times、US News什么的排名都可以）</li></ul></li><li>地点<ul><li>周围是否有对应工业界项目</li><li>城市/农村</li><li>安全环境如何</li></ul></li></ul><h2 id="怎么样挑导师-1"><a href="#怎么样挑导师-1" class="headerlink" title="怎么样挑导师[^1]"></a>怎么样挑导师[^1]</h2><h3 id="一大戒律"><a href="#一大戒律" class="headerlink" title="一大戒律"></a>一大戒律</h3><blockquote><p>不要因为导师的课题想做而选择导师</p></blockquote><ul><li>如何操作<ol><li>选择对应大方向</li><li>掌握自己的intelligence pattern（智力结构或受脑力的类型），并根据此来找导师</li><li>lab rotation：实验室大串联（各地实习一段时间的大旅游）</li></ol></li></ul><h3 id="两大法则"><a href="#两大法则" class="headerlink" title="两大法则"></a>两大法则</h3><h4 id="选真正的科学家"><a href="#选真正的科学家" class="headerlink" title="选真正的科学家"></a>选真正的科学家</h4><blockquote><p><strong>注意</strong>：不要因为某人拿到了名校的教职就从了，没教职的AP（Assistant Professor）反倒是绝佳之选</p></blockquote><ul><li>真正的科学家的基本能力<ul><li>提出关键性问题及其可行性解决步骤的能力[^3]<ul><li>阅读一些教授的论文，看看他们写的是否很好、严谨、让你感兴趣</li><li>注意看论文而不是综述</li></ul></li><li>CV上面的成就（不是成就越大越好）<ul><li>帽子（诺奖、院士、HHMI研究员等）</li><li>获奖情况</li><li>H指数（注意：年长的H指数一般更高）</li><li>具有新技术</li><li>funding ground：拿到资金支持的情况（NIH或其他机构）</li></ul></li><li>手头缺人（查看官网、<strong>套磁</strong>）</li><li>有时间管你（年轻老师居多，<strong>需要套磁</strong>）</li></ul></li></ul><blockquote><p>这个可以问问<strong>身边</strong>的年长导师（询问科学素养），他们不怕得罪人</p></blockquote><blockquote><p><span class="github-emoji"><span>⚠</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/26a0.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span><strong>注意</strong>：如果你挑导师的时间还没有你逛淘宝的时间长，那就是对你自己的未来不负责任！！！</p></blockquote><h4 id="选个好导师"><a href="#选个好导师" class="headerlink" title="选个好导师"></a>选个好导师</h4><ul><li>什么是“好导师”（花费大量时间和学生）<ul><li>讨论科学</li><li>设计实验<ul><li>帮学生找到好且可行的题目（不难，不简单）</li><li>耐心的帮助学生提出实验框架</li><li>随着博士过程的深入，逐步增加学生的自主性</li></ul></li><li>写论文、申请奖学金、练习演讲</li><li>鼓励学生从研究中抽出时间参加其他活动（研究生课程、会议、暑期课程等）</li><li>进行事业生涯的整体规划</li><li>有人情味（育儿假）</li></ul></li><li>如何挑导师人品：访问他现在和曾经的学生（<strong>非学术套磁</strong>）[^3]<ul><li>导师是否花足够的时间和每个学生在一起</li><li>学生是否喜欢呆在实验室里</li><li>实验室是否有团队精神（每个人都互相帮助，而不是互相竞争）</li><li>组会是大家在讨论自己的想法还是教职工布置下一步的任务</li><li>实验室学生和博后的比例（博后比例不高：对培养学生不感兴趣，官网）</li><li><em>“博导成功率”：他带的学生多少继续学术道路（仅限理论研究，研究生办公室官网、NIH、<strong>套磁</strong>）</em></li><li>学生的文章状况（期刊质量和数量，同下）[^2]</li><li>学生总体是否满意<ul><li>基于兴趣工作</li><li>强制要求工作时间</li></ul></li></ul></li><li>只想着自己的导师的一些特点<ul><li>在演讲的时候从来不提学生的名字，或者在演讲结束的时候在长长的列表中简单提一下</li><li>不练习和学生讲话</li><li>让同一个实验室里多人做同一个项目来相互竞争</li><li>坚持自己写研究论文（而不是让学生写，然后和学生一起改）</li><li>押着学生的论文不给投稿</li><li>拒绝让学生随身携带他们的项目或试剂</li></ul></li></ul><h4 id="其他要点-2"><a href="#其他要点-2" class="headerlink" title="其他要点[^2]"></a>其他要点[^2]</h4><ul><li>文章质量和数量（谷歌学术，注意作者顺序）<ul><li>累计影响因子</li><li>单篇最高影响因子</li><li>最近5年发表论文情况（如果五年都没发论文，快跑）</li></ul></li><li>导师圈子<ul><li>学术族谱（某个大牛的徒弟）</li><li>学术组织（协会）的主席、副主席</li><li>期刊的主编、副主编</li></ul></li><li>实验室规模（学校官网、实验室官网）</li><li>导师在培养女研究生的时候是否有很好的记录[^3]</li></ul><h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><p>[^1]: <a href="https://zhuanlan.zhihu.com/p/78673966">关于读博必须要避开的那些坑 - 知乎 (zhihu.com)</a><br>[^2]: <a href="https://zhuanlan.zhihu.com/p/44896035">博士申请中「如何判断导师牛不牛」 - 知乎 (zhihu.com)</a><br>[^3]: Barres, B. A. (2013). How to Pick a Graduate Advisor. <em>Neuron</em>, <em>80</em>(2), 275–279. <a href="https://doi.org/10.1016/j.neuron.2013.10.005">https://doi.org/10.1016/j.neuron.2013.10.005</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Notes </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2021/04/23/hello-world/"/>
+      <url>/2021/04/23/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo server<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo generate<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
