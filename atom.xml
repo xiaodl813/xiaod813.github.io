@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Heyuan&#39;s Site</title>
+  
+  <subtitle>Heyuan&#39;s Site</subtitle>
+  <link href="https://xiaodl813.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://xiaodl813.github.io/"/>
+  <updated>2021-09-08T10:07:33.525Z</updated>
+  <id>https://xiaodl813.github.io/</id>
+  
+  <author>
+    <name>Heyuan Xiao</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>What is Double-entry Bookkeeping</title>
+    <link href="https://xiaodl813.github.io/2021/08/22/what-is-double-entry-bookkeeping/"/>
+    <id>https://xiaodl813.github.io/2021/08/22/what-is-double-entry-bookkeeping/</id>
+    <published>2021-08-22T09:36:50.000Z</published>
+    <updated>2021-09-08T10:07:33.525Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;What-is-Double-entry-Bookkeeping&quot;&gt;&lt;a href=&quot;#What-is-Double-entry-Bookkeeping&quot; class=&quot;headerlink&quot; title=&quot;What is Double-entry</summary>
+        
+      
+    
+    
+    
+    <category term="Financing" scheme="https://xiaodl813.github.io/categories/Financing/"/>
+    
+    
+    <category term="Double-entry Bookkeeping" scheme="https://xiaodl813.github.io/tags/Double-entry-Bookkeeping/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>How to Pick a graduate Advisor</title>
+    <link href="https://xiaodl813.github.io/2021/08/07/how-to-pick-a-graduate-advisor/"/>
+    <id>https://xiaodl813.github.io/2021/08/07/how-to-pick-a-graduate-advisor/</id>
+    <published>2021-08-07T14:53:58.000Z</published>
+    <updated>2021-08-07T15:03:59.270Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;如何挑选一个研究生导师&quot;&gt;&lt;a href=&quot;#如何挑选一个研究生导师&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Notes" scheme="https://xiaodl813.github.io/tags/Notes/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://xiaodl813.github.io/2021/04/23/hello-world/"/>
+    <id>https://xiaodl813.github.io/2021/04/23/hello-world/</id>
+    <published>2021-04-23T08:38:24.734Z</published>
+    <updated>2021-04-23T08:38:24.736Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
